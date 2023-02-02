@@ -8,7 +8,7 @@ This plugin is for integration with [SeaLights](https://www.sealights.io) to:
 - This plugin does not include installing SeaLights agent or code instrument to collect test coverage.
 
 ## How to use
-1. Install the plugin either locally or via Katalon store
+1. Install the plugin either [offline](https://docs.katalon.com/docs/plugins-and-add-ons/katalon-store/katalon-studio-plugins/installing-plugin-offline-in-katalon-studio#install-plugins-offline) or [via Katalon store](https://docs.katalon.com/docs/plugins-and-add-ons/katalon-store/katalon-studio-plugins/install-plugins-online-from-the-katalon-store)
 2. Setup plugin configuration
 
    <img width="391" alt="sealights_configuration_ui" src="https://user-images.githubusercontent.com/1128/216404017-896458db-973c-4049-a53d-ec0f0fb7c2dc.png">
